@@ -3,8 +3,11 @@
 using namespace std;
 
 int main(){
-    string name;
-    int num;
+    string name = "zoro";
+    int num = 1;
+    float point_num = 1.1;
+    double point_Bignum = 4143124.1432;
+
     cout << "I love Programming"<<endl;
     cout << "I love Programming"<<endl;
     cout << "Enter Your Name Please :";
